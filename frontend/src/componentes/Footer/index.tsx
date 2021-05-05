@@ -9,7 +9,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Nelio Alves
+            Matheus Duarte - Maduc
           </a>
         </p>
         <p className="text-light">
