@@ -5,7 +5,7 @@ const Footer = () => {
         <p className="text-light">
           App desenvolvido por{" "}
           <a
-            href="https://github.com/acenelio"
+            href="https://github.com/ismagaia"
             target="_blank"
             rel="noreferrer"
           >

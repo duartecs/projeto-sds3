@@ -2,7 +2,7 @@ import axios from "axios";
 import Pagination from "componentes/Pagination";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sale";
-import { BASE_URL } from "utils/Requests";
+import { BASE_URL } from "utils/requests";
 import { formatLocalDate } from "../../utils/Format";
 
 const DataTable = () => {
